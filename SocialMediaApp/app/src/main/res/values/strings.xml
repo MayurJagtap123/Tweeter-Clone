@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Twitter Clone</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="nav_messages">Messages</string>
+    
+    <!-- Authentication -->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_handle">Handle</string>
+    <string name="btn_login">Log in</string>
+    <string name="btn_signup">Sign up</string>
+    <string name="btn_forgot_password">Forgot password?</string>
+    <string name="text_no_account">Don\'t have an account?</string>
+    <string name="text_have_account">Already have an account?</string>
+    
+    <!-- Tweet Composition -->
+    <string name="hint_whats_happening">What\'s happening?</string>
+    <string name="btn_tweet">Tweet</string>
+    <string name="text_tweet_char_count">%d</string>
+    <string name="btn_add_image">Add image</string>
+    <string name="btn_add_gif">GIF</string>
+    <string name="btn_add_poll">Poll</string>
+    <string name="btn_add_emoji">Emoji</string>
+    
+    <!-- Profile -->
+    <string name="text_tweets">Tweets</string>
+    <string name="text_following">Following</string>
+    <string name="text_followers">Followers</string>
+    <string name="btn_edit_profile">Edit profile</string>
+    <string name="btn_follow">Follow</string>
+    <string name="btn_following">Following</string>
+    
+    <!-- Tweet Actions -->
+    <string name="action_reply">Reply</string>
+    <string name="action_retweet">Retweet</string>
+    <string name="action_like">Like</string>
+    <string name="action_share">Share</string>
+    
+    <!-- Messages -->
+    <string name="msg_tweet_success">Tweet posted successfully</string>
+    <string name="msg_tweet_error">Failed to post tweet</string>
+    <string name="msg_login_error">Invalid email or password</string>
+    <string name="msg_signup_error">Failed to create account</string>
+    <string name="msg_network_error">Network error. Please try again</string>
+    <string name="msg_loading">Loading…</string>
+    <string name="msg_no_tweets">No tweets yet</string>
+    <string name="msg_no_notifications">No notifications yet</string>
+    <string name="msg_no_messages">No messages yet</string>
+    
+    <!-- Content Descriptions -->
+    <string name="cd_profile_image">Profile image</string>
+    <string name="cd_tweet_image">Tweet image</string>
+    <string name="cd_close">Close</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_more">More options</string>
+</resources>
